@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gaurav Kanwat</h1>
-<h3 align="center">Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Gaurav</h1>
+<h3 align="center">Developer</h3>
 
 - 🔭 I’m currently working on web application
 
