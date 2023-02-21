@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **gauravkanwat99@gmail.com**
 
+![snake gif](https://github.com/gauravkanwat/gauravkanwat/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kanwat_gaurav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanwat_gaurav1" height="30" width="40" /></a>
@@ -25,4 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkanwat&show_icons=true&locale=en&layout=compact" alt="gauravkanwat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkanwat&show_icons=true&locale=en" alt="gauravkanwat" /></p>
-
