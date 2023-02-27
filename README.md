@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Javascript, python**
 
-- 📫 How to reach me **gauravkanwat99@gmail.com**
+- 📫 Reach out to me: **gauravkanwat99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
