@@ -12,7 +12,7 @@
 
 👯 I’m looking to collaborate on Open Source Projects.
 
-💬 Ask me about **C++, Python, Java, Javascript**
+[comment]: <> (💬 Ask me about **C++, Python, Java, Javascript**)
 
 📫 Reach out to me: **gauravkanwat99@gmail.com**
 
