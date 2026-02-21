@@ -6,9 +6,11 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 
-🔭 I’m currently doing M.Tech from IIT Madras.
+🔭 I’m currently working as a Software Engineer at Samsung.
 
-🌱 I’m currently learning ML, deep learning and concepts of devops.
+💻 I've completed M.Tech in Computer Science from IIT Madras.
+
+🌱 I've worked on projects related to Kernel Development, ML, deep learning.
 
 👯 I’m looking to collaborate on Open Source Projects.
 
