@@ -1,70 +1,74 @@
-<div align=center>
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+sans&pause=500&color=B7D9F7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Gaurav;Developer+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
-<br/>
-<br/>
-<img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3C8DDA&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav;Linux+Kernel+%C2%B7+Storage+%C2%B7+Security)](https://github.com/GauravKanwat)
 
-🔭 I’m currently working as a Software Engineer at Samsung.
+**Software Engineer @ Samsung** &nbsp;·&nbsp; M.Tech CSE, IIT Madras &nbsp;·&nbsp; Jaipur, India
 
-💻 I've completed M.Tech in Computer Science from IIT Madras.
-
-🌱 I've worked on projects related to Kernel Development, ML, deep learning.
-
-👯 I’m looking to collaborate on Open Source Projects.
-
-[comment]: <> (💬 Ask me about **C++, Python, Java, Javascript**)
-
-📫 Reach out to me: **gauravkanwat99@gmail.com**
-
-  
 </div>
 
-<br>
-<br/><br/>
-<hr/>
+---
 
-<h2 align="center">Connect with me:</h3>
-<br>
-<div align=center>
-<p align="center">
-<a href="https://twitter.com/kanwat_gaurav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanwat_gaurav1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurav-kanwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-kanwat" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13469256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13469256" height="30" width="40" /></a>
-<a href="https://medium.com/@gauravkanwat99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gauravkanwat99" height="30" width="40" /></a>
-</p>
-</div>
-<br/><br/>
-<hr/>
+### 🛠️ What I work on
 
-<h2 align="center">Languages and Tools:</h3>
-<br>
-<div align=center>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-</div>
-<br/><br/>
-<hr/>
+- **Linux kernel storage**: raw NAND flash, the MTD layer, UBI/UBIFS. That covers bad-block management, ECC and wear leveling.
+- **Kernel security**: triaging Linux CVEs, tracing fixes back to upstream commits, and backporting patches.
+- **Automation**: Python tooling that takes the manual work out of CVE and patch tracking.
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gauravkanwat&count_private=true&theme=blue-green&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=gauravkanwat&count_private=true&show_icons=true&theme=blue-green&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=blue-green&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+### 📚 Currently learning
 
-<br/><br/>
+- Linux **memory management** internals: page allocator, slab, page cache, reclaim
+- Filesystem internals: VFS, the block layer, writeback
 
-<hr/>
+### 🧰 Tech
 
-<br/>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### 📌 Selected projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**CVE_Automation**](https://github.com/GauravKanwat/CVE_Automation) | Scans the CVE list for Linux-kernel CVEs, extracts the fixing commits (git.kernel.org / torvalds/linux) and downloads the patches | Python |
+| [**Game-simulation-GPU**](https://github.com/GauravKanwat/Game-simulation-GPU) | Parallel tank-battle game simulation on the GPU | CUDA C |
+| [**live-code-editor**](https://github.com/GauravKanwat/live-code-editor) | CodeSync: real-time collaborative code editor | React, Socket.IO, Node.js |
+| [**BrainTumorSegmentationDL**](https://github.com/GauravKanwat/BrainTumorSegmentationDL) | Brain tumor segmentation with deep learning | Python, DL |
+
+### 📊 Stats
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gauravkanwat/gauravkanwat/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GauravKanwat&count_private=true&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravKanwat&layout=compact&langs_count=8&hide_border=true&theme=transparent&hide=html,css,bibtex%20style,jupyter%20notebook" alt="Top languages" />
+<br/>
+<img height="165" src="https://streak-stats.demolab.com/?user=GauravKanwat&hide_border=true&theme=transparent" alt="GitHub streak" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauravKanwat/GauravKanwat/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/GauravKanwat/GauravKanwat/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-kanwat)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@gauravkanwat99)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13469256)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/kanwat_gaurav1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gauravkanwat99@gmail.com)
+
 </div>
